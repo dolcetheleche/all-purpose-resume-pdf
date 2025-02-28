@@ -1,2 +1,2 @@
 # all-purpose-resume-pdf
-vitoscandolo.eu/contact/resume_pdf
+https://www.vitoscandolo.eu/contact/
